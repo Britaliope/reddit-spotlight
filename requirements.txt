@@ -1,0 +1,9 @@
+certifi==2021.5.30
+chardet==4.0.0
+feedparser==6.0.2
+idna==2.10
+Pillow==8.2.0
+python-resize-image==1.1.19
+requests==2.25.1
+sgmllib3k==1.0.0
+urllib3==1.26.5
