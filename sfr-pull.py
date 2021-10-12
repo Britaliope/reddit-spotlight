@@ -22,7 +22,7 @@ imageRegex = re.compile(r'<a href="(\S*)">\[link\]</a>')
 min_x = 1920
 min_y = 1080
 
-images_folder = "/usr/local/share/spotlight-from-reddit/"
+images_folder = "~/.local/share/spotlight-from-reddit/"
 
 raw_folder = '/raw/'
 wallpaper_folder = '/wallpaper/'
